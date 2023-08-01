@@ -24,7 +24,7 @@ const Footer = () => {
             <span className="ml-3 text-xl">HireTalnet</span>
           </Link>
           <p className="mt-2 text-sm text-white-500">
-           # No.1 place to hire talents
+            # No.1 place to hire talents
           </p>
         </div>
         <div className="flex flex-wrap flex-grow mt-10 -mb-10 text-center md:pl-20 md:mt-0 md:text-left">
@@ -40,17 +40,17 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                   Recruiter 
+                  Recruiter
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Join  
+                  Join
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Leads 
+                  Leads
                 </Link>
               </li>
             </nav>
@@ -66,22 +66,22 @@ const Footer = () => {
             <nav className="mb-10 list-none">
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Tophire 
+                  Tophire
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Angellist 
+                  Angellist
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Internshala 
+                  Internshala
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Talent 
+                  Talent
                 </Link>
               </li>
             </nav>
@@ -97,22 +97,22 @@ const Footer = () => {
             <nav className="mb-10 list-none">
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  HelpDesk 
+                  HelpDesk
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Contact 
+                  Contact
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Email 
+                  Email
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Advice 
+                  Advice
                 </Link>
               </li>
             </nav>
@@ -128,22 +128,22 @@ const Footer = () => {
             <nav className="mb-10 list-none">
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Interns 
+                  Interns
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Recruiters 
+                  Recruiters
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  companys 
+                  companys
                 </Link>
               </li>
               <li>
                 <Link href="/" className="text-white-600 hover:text-white-800">
-                  Affiliate 
+                  Affiliate
                 </Link>
               </li>
             </nav>
